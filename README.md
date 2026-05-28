@@ -284,7 +284,7 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Email: [your-email@example.com]
+- Email: ankitamondal2801@gmail.com
 
 ---
 
